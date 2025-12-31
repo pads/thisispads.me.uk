@@ -5,7 +5,7 @@ date: 2025-12-31T15:05:00.000+00:00
 ---
 Another year has passed already and whilst recovering from a cycling accident, I've had plenty of time to reflect on the past 12 months. I'm breaking this down into a few categories.
 
-# Health & Fitness
+## Health & Fitness
 
 First and foremost I'm a keen cyclist and I've not been at my best this year. This is down to an ongoing hip injury caused by overloading my body too much last year and not investing enough in complimentary exercises such as strength training.  
 
@@ -13,7 +13,7 @@ I'm improving on this situation by investing in a personal trainer who will keep
 
 This year also marks the first year where I haven't felt the need for therapy.  This is the first time in 6 years which I didn't realise until now.  I've been journalling, meditating and trying to be more present in life.
 
-# Career
+## Career
 
 In January I made the decision to return to The Economist after 18 months at a health care start-up.  I've realised that the pace and stress of that job was no longer for me. It's been a good decision so far and I've found my feet again. I'm lucky to work with very helpful and friendly people and I've been able to gain trust and influence.
 
@@ -21,7 +21,7 @@ One thing I have been conscious of is falling into the trap of chasing titles. I
 
 On the flip side of this, I don't need to put any pressure on myself regarding timescales or even needing to attain this role.  I am grateful for my already privileged position in life.
 
-# Personal Life
+## Personal Life
 
 I was also back in a relationship again this year, which also ended after 9 months. We left on good terms and I'm grateful for the experience as I was able to see what an emotionally healthy relationship looks like (unlike the last one I had).  
 
