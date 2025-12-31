@@ -17,7 +17,7 @@ This year also marks the first year where I haven't felt the need for therapy.  
 
 In January I made the decision to return to The Economist after 18 months at a health care start-up.  I've realised that the pace and stress of that job was no longer for me. It's been a good decision so far and I've found my feet again. I'm lucky to work with very helpful and friendly people and I've been able to gain trust and influence.
 
-One thing I have been conscious of is falling into the trap of chasing titles. I'm working towards becoming a Staff engineer but I know that this will take some time and involve stepping more out of my comfort zone.  I need to move forward with patience and continue with a learning and growth mindset.  I also need to not take on too many things at once!
+One thing I have been conscious of is falling into the trap of chasing titles. I'm working towards becoming a Staff engineer but I know that this will take some time and involve stepping out of my comfort zone more.  I need to move forward with patience and continue with a learning and growth mindset.  I also need to stop taking on too many things at once!
 
 On the flip side of this, I don't need to put any pressure on myself regarding timescales or even needing to attain this role.  I am grateful for my already privileged position in life.
 
