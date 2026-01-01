@@ -26,6 +26,7 @@ jobs:
               with:
                   chrome-version: latest
                   install-chromedriver: true
+            - name: Link Netlify project to repo
               run: netlify link --name benpaddock
             - name: Pull Netlify environment variables
               run: netlify env:list --plain >> .env.local
