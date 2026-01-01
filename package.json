@@ -68,7 +68,7 @@
         "eslint-plugin-unused-imports": "^4.1.4",
         "husky": "^9.1.7",
         "import-sort-style-module": "^6.0.0",
-        "netlify-cli": "^23.9.1",
+        "netlify-cli": "^15.0.2",
         "prettier": "^3.4.2",
         "prettier-plugin-import-sort": "0.0.7",
         "start-server-and-test": "^2.0.9",
