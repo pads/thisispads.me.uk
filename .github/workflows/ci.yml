@@ -26,8 +26,6 @@ jobs:
               with:
                   chrome-version: latest
                   install-chromedriver: true
-            - run: npm install -g netlify-cli
-            - name: Link Netlify project to repo
               run: netlify link --name benpaddock
             - name: Pull Netlify environment variables
               run: netlify env:list --plain >> .env.local
@@ -35,4 +33,4 @@ jobs:
             - run: npm run build
             - run: npm run a11yci
             - run: npm test
-            - run: netlify deploy --prod
+            - run: netlify deploy --prod-if-unlocked
