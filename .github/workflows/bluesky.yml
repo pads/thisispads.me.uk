@@ -1,4 +1,4 @@
-name: Mastodon Post
+name: Bluesky Post
 
 on:
   workflow_run:
@@ -21,7 +21,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Publish latest blog post
-        run: node publish.mjs
+        run: node publish-bluesky.mjs
         env:
-          MASTODON_AUTH_TOKEN: ${{ secrets.MASTODON_AUTH_TOKEN }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
           HOST: ${{ vars.HOST }}
+
