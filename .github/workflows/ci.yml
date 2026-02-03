@@ -35,4 +35,4 @@ jobs:
             - run: npm run build
             - run: npm run a11yci
             - run: npm test
-            - run: netlify deploy --prod-if-unlocked
+            - run: netlify deploy --prod
