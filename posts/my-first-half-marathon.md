@@ -13,13 +13,13 @@ If I had the courage, I'd try and make a career out of this instead of breaking 
 
 Cycling has always been my number one passion but it's not without its drawbacks, especially in winter. The weather takes its toll on bike maintenance and the body, not to mention the increased risk of accidents. Winter is the most detrimental season when it comes to mental health and so I needed to find another sport that would fare better for this time of year. Enter running.
 
-I've started endevour a bit late in life. Now in my 40s, my body is more sensitive to stress and full recovery takes significantly longer. I've cycled with many injured runners and I didn't want to become one of them (sorry). I knew from my cycling injuries that you can't just train by doing the sport you're doing, you need complimentary exercises. I also need the will power to take this on.  Hiring a personal trainer to keep me accountable has worked well here.
+I've started this endevour a bit late in life. Now in my 40s, my body is more sensitive to stress and full recovery takes significantly longer. I've cycled with many injured runners and I didn't want to become one of them (sorry). I knew from my cycling injuries that you can't just train by doing the sport you're doing, you need complimentary exercises. I also need the will power to take this on.  Hiring a personal trainer to keep me accountable has worked well here.
 
 I was always happy with 5k Parkruns and the occasional 10k with my local running club (big up [Spa Striders](https://spastriders.co.uk/)) but I wondered if I could achieve more. After witnessing, as a spectator, the glorious atmosphere that is the London Marathon, I thought a half marathon could be the smallest step to take next. A commitment of 2-2.5 hours didn't sound so bad (especially given I have ridden 12 hours in one ride before). I decided it had to be local and the Warwick half on February 1st was ideal.
 
 ![man in a green running top with a red stripe running](/images/blog/warwick-half.jpg "Image courtesy of Nigel Fox")
 
-What I'm pleased about most is that I enjoyed the journey as much as the destination. Training got me out of the house on dark and wet days. What really helped was having a running partner for some motivational company (thank you Sarah!) and a structured plan to target and stick to (I used the [Runna](https://www.runna.com/) app).
+What I'm pleased about most is that I enjoyed the journey as much as the destination. Training got me out of the house on dark and wet days. What really helped was having a running partner for some motivational company (thank you [Sarah](https://2026tcslondonmarathon.enthuse.com/pf/sarah-lucas)!) and a structured plan to target and stick to (I used the [Runna](https://www.runna.com/) app).
 
 I'm writing this the day after the event. I managed a time of 2 hours 19 minutes (1 minute faster than my target). The local support and atmosphere was great and thankfully the weather stayed fair. I'm still tired but have recovered well and not picked up any injuries.
 
