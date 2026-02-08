@@ -7,14 +7,14 @@ on:
         branches: ["master"]
 
 jobs:
-    test-and-deploy:
+    test:
         runs-on: ubuntu-latest
+        if: github.ref != 'refs/heads/master'
         env:
             NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         strategy:
             matrix:
                 node-version: [22.x]
-
         steps:
             - uses: actions/checkout@v4
             - name: Use Node.js ${{ matrix.node-version }}
@@ -26,6 +26,27 @@ jobs:
               with:
                   chrome-version: latest
                   install-chromedriver: true
+            - run: npm ci
+            - run: npm run build
+            - run: npm run a11yci
+            - run: npm test
+
+    deploy:
+        runs-on: ubuntu-latest
+        needs: test
+        if: github.ref == 'refs/heads/master'
+        env:
+            NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        strategy:
+            matrix:
+                node-version: [22.x]
+        steps:
+            - uses: actions/checkout@v4
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v4
+              with:
+                  node-version: ${{ matrix.node-version }}
+                  cache: "npm"
             - run: npm install -g netlify-cli
             - name: Link Netlify project to repo
               run: netlify link --name benpaddock
@@ -33,6 +54,4 @@ jobs:
               run: netlify env:list --plain >> .env.local
             - run: npm ci
             - run: npm run build
-            - run: npm run a11yci
-            - run: npm test
             - run: netlify deploy --prod
