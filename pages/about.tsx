@@ -3,10 +3,18 @@ import { faBiking, faLaptopCode, faMusic } from "@fortawesome/free-solid-svg-ico
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import Layout from "../components/layout";
-import { GetStaticProps } from "next";
-import { getLiveTrackUrl } from "../lib/liveTrack";
 
-export default function About({ liveTrackUrl }: { liveTrackUrl: string }): JSX.Element {
+const handleFetchLiveTrack = async () => {
+    try {
+        const response = await fetch("/api/live-track");
+        const data = await response.json();
+        window.open(data.url, "_blank", "noopener,noreferrer");
+    } catch {
+        alert("Sorry, this feature isn't working right now. Please try again later.");
+    }
+};
+
+export default function About(): JSX.Element {
     return (
         <Layout title="About" description="About Ben Paddock" url={`${process.env.HOST}/about`}>
             <section>
@@ -73,9 +81,9 @@ export default function About({ liveTrackUrl }: { liveTrackUrl: string }): JSX.E
                     src="https://www.strava.com/athletes/176806/activity-summary/9dfcb69a89547261a71bd324469120368db011e7"
                 ></iframe>
                 <p>
-                    <a href={liveTrackUrl} target="_blank" rel="noreferrer">
+                    <button onClick={handleFetchLiveTrack}>
                         See where I am cycling right now
-                    </a>
+                    </button>
                 </p>
             </section>
             <br />
@@ -94,10 +102,3 @@ export default function About({ liveTrackUrl }: { liveTrackUrl: string }): JSX.E
     );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-    return {
-        props: {
-            liveTrackUrl: await getLiveTrackUrl(),
-        },
-    };
-};

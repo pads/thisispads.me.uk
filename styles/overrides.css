@@ -9,6 +9,13 @@ a {
     color: #065f46;
 }
 
+button {
+    color: #fff;
+    background-color: #34d399;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
 header a,
 nav a {
     color: #34d399;
