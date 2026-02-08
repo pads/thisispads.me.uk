@@ -1,4 +1,6 @@
 name: thisispads.me.uk CI
+permissions:
+    contents: read
 
 on:
     push:
