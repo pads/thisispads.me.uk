@@ -27,7 +27,7 @@
         }
     },
     "dependencies": {
-        "@atproto/api": "^0.18.9",
+        "@atproto/api": "^0.18.20",
         "@fontsource/raleway": "^5.1.0",
         "@fontsource/roboto-slab": "^5.1.0",
         "@fortawesome/fontawesome-svg-core": "^6.7.1",
