@@ -61,7 +61,7 @@
         "@types/node": "^22.10.2",
         "@types/react": "^18.3.12",
         "@types/rss": "0.0.32",
-        "@typescript-eslint/eslint-plugin": "^8.16.0",
+        "@typescript-eslint/eslint-plugin": "^8.55.0",
         "@typescript-eslint/parser": "^8.17.0",
         "baseline-browser-mapping": "^2.9.11",
         "eslint": "^9.17.0",
