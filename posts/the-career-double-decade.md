@@ -1,7 +1,7 @@
 ---
 title: The Career Double Decade
 description: Reflecting on 20 years in software development
-date: 2026-09-01T00:00:00.000+01:00
+date: 2026-09-27T00:00:00.000+01:00
 ---
 September 2026 marks 20 years that I have been a professional software developer. I'm using this blog post as an opportunity to reflect back on the journey I've been on up to now.
 
