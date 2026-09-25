@@ -3,4 +3,6 @@ title: The Career Double Decade
 description: Reflecting on 20 years in software development
 date: 2026-09-01T00:00:00.000+01:00
 ---
-Grumblings from an old man, yelling at cloud.
+September 2026 marks 20 years that I have been a professional software developer. I'm using this blog post as an opportunity to reflect back on the journey I've been on up to now.
+
+I started as a a graduate at BT back in 2006, fresh-faced from university. I remember having a friendly team who were very supportive and gave me a good environment to learn and fail in.  I remember progressing well, but this wasn't necessarily because of improvements in technical ability, rather, I was good in front of non-technical stakeholders (customers).
