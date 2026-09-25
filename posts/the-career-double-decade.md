@@ -7,6 +7,8 @@ September 2026 marks 20 years that I have been a professional software developer
 
 I started as a a graduate at BT back in 2006, fresh-faced from university. I remember having a friendly team who were very supportive and gave me a good environment to learn and fail in.  
 
+Failure is learning and healthy environments let you fail without harmful consequences.
+
 I remember progressing well, but this wasn't necessarily because of improvements in my technical ability. I was given opportunities to work with stakeholders, including partners and customers. I was trusted to represent the business and translate requirements into technical understanding. This experience led me to gain skills as a communicator and problem solver. This is absolutely key attributes needed today by software developers.  
 
 Our job is to solve problems and work with people who have them, who aren't necessarily technical. This does not change with the advent of AI.
